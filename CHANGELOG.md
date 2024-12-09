@@ -11,9 +11,8 @@
 ## v4.0.0
 
 **Final Changes:**
-1. Integrated footer updates with additional branding and navigation elements.
-2. Removed redundant features and refined user navigation for a simplified, intuitive interface.
-3. Consolidated all UI updates into the repository to ensure accurate version control and documentation.
+1. Removed redundant features and refined user navigation for a simplified, intuitive interface.
+2. Consolidated all UI updates into the repository to ensure accurate version control and documentation.
 - **Version Control:**
   - Tagged all previous versions for clarity in GitHub.
   - Verified and pushed the final changes to the main branch for submission.
